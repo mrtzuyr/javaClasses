@@ -25,7 +25,9 @@ public class Review1 {
 		}
 		return capital;
 		
+		
 	}
+	
 	
 	public static void main(String[] args) {
 		

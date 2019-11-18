@@ -1,5 +1,7 @@
 package com.class19;
 
+import com.class20.Review;
+
 public class Task {
 	//TASK 1
 	String createEmail(String name, String lastName, String type) {
@@ -64,12 +66,7 @@ public class Task {
 		
 		char grade=obj.getGrade(75);
 		System.out.println(grade);
-		
-		
-		
-		
-		
-		
-		
+	
+	
 	}
 }
