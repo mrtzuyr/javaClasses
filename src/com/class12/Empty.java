@@ -4,11 +4,11 @@ public class Empty {
 
 	public static void main(String[] args) {
 		
-		String str=" ";
+		String str="";
 		System.out.println("Is it empty= "+str.isEmpty());
 		
 		String str1="Hello";
-		System.out.println("Is it empty= "+str.isEmpty());
+		System.out.println("Is it empty= "+str1.isEmpty());
 
 	}
 

@@ -5,7 +5,7 @@ public class StartsEndsWith {
 		
 		String s="It is very cold in here";
 		
-		System.out.println(s.startsWith("It"));
+		System.out.println(s.startsWith("I"));
 		
 		System.out.println(s.endsWith("here"));
 	}

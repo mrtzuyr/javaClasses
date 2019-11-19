@@ -62,7 +62,7 @@ public class Forest {
 		Bear.numberOfBears++;
 		
 		System.out.println(Bear.numberOfBears+Fox.numberOfFoxes+Wolf.numberOfWolves+" animals are in "
-				+ "the forest in total");
+				+ "the forest in total.");
 		
 	}
 

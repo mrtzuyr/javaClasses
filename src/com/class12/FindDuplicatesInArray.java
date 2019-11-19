@@ -2,6 +2,7 @@ package com.class12;
 
 public class FindDuplicatesInArray {
 	public static void main(String[] args) {
+		
 		int[] array2= {2,5,7,5,4,7,4,3,};
 		
 		for (int i = 0; i < array2.length; i++) {
