@@ -31,6 +31,7 @@ public class Employee {
 		
 		e1.displayInfo();
 		e2.displayInfo();
+		
 	}
 	
 }
