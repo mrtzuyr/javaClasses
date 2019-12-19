@@ -21,6 +21,8 @@ public class ClassTask {
 			season=" ";
 		}
 		System.out.println("You were born in "+season);
+		
+		scan.close();
 	}
 
 }

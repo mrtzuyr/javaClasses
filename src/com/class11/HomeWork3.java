@@ -6,7 +6,7 @@ public class HomeWork3 {
 		//Then retrieve all values from that array
 		
 		String[] countries= {"American","German","Italian","Japan"};
-		String[][]cars= {{"Jeep","Buick","Ford","Dodge"},
+		String[][]cars= {{"Jeep","Buick","Ford","Dodge","asd"},
 						{"Mercedes","Volkswagen","Audi","Porsche"},
 						{"Ferrari","Fiat","Maserati","Lamborghini"},
 						{"Toyota","Honda","Mazda","Lexus"}

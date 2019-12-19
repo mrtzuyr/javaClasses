@@ -5,7 +5,7 @@ public class Confusion {
 		
 		for(int a=1; a<=5; a++) {
 			for(int b=5; b>=a; b--) {
-				System.out.print(a);
+				System.out.print(b);
 			}
 			System.out.println();
 		}

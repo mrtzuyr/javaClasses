@@ -8,9 +8,8 @@ public class ConstructorDemo {
 	 * }
 	 */
 	
-	ConstructorDemo() {
-		System.out.println("I am your constructor");
-		}
+	  ConstructorDemo() { System.out.println("I am your constructor"); }
+	 
 	
 	ConstructorDemo(String str){
 		System.out.println("I am constructor with 1 parameter "+str);

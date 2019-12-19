@@ -14,7 +14,7 @@ public class EnhancedLoop {
         for(String getArrays[]: names) {
             for(String getName: getArrays) {
                 
-                System.out.print(getName+" ");;
+                System.out.print(getName+" ");
                 
             }
             System.out.println();

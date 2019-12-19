@@ -28,7 +28,8 @@ public class HomeWork1 {
 		}
 		
 		System.out.println("The largest number is "+largestNumber);
-
+		
+		scan.close();
 	}
 
 }

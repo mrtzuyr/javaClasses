@@ -3,7 +3,7 @@ package com.class7;
 public class DoWhileLoop {
 	public static void main(String[] args) {
 		// MOSTLY USED
-		 int num1=10;
+		 int num1=8;
 		 while (num1<=7) {
 			 System.out.println("bye");
 			 num1++;
